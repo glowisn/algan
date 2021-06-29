@@ -1,0 +1,3 @@
+Number of Items | Processing time / Maximum benefit value
+  No | Greedy | Dynamic | B. & B. 
+10 |  0ms / 180.241 |  0ms / 151 |  17340ms / 151 | 

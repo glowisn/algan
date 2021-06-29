@@ -1,0 +1,2 @@
+C:\algan\algan2\Debug\algan2.exe
+C:\algan\algan2\Debug\algan2.pdb

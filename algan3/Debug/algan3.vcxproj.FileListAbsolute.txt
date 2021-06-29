@@ -1,0 +1,2 @@
+C:\algan\algan3\Debug\algan3.exe
+C:\algan\algan3\Debug\algan3.pdb

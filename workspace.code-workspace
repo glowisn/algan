@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\OSS\\C"
+		},
+		{
+			"path": "..\\..\\..\\Documents\\hguftp1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		},
+		"files.encoding": "euckr",
+		"python.pythonPath": "C:\\Users\\asdxc\\anaconda3\\python.exe"
+	}
+}
